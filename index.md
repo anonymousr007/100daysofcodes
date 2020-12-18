@@ -26,6 +26,11 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+```Day 1
+[Data Structure and Algorithm : Time Complexity + Basic Maths](https://youtu.be/POehjAlYqNw)
+[Data Structure and Algorithm : Array + Binary Search](https://youtu.be/uFdm_kXGJkU)
+```
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
